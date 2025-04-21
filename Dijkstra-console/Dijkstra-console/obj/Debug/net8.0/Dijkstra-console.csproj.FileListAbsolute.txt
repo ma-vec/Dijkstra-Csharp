@@ -1,0 +1,15 @@
+F:\MRA\Informatica\cl4\Dijkstra-Csharp\Dijkstra-console\Dijkstra-console\obj\Debug\net8.0\Dijkstra-console.GeneratedMSBuildEditorConfig.editorconfig
+F:\MRA\Informatica\cl4\Dijkstra-Csharp\Dijkstra-console\Dijkstra-console\obj\Debug\net8.0\Dijkstra-console.AssemblyInfoInputs.cache
+F:\MRA\Informatica\cl4\Dijkstra-Csharp\Dijkstra-console\Dijkstra-console\obj\Debug\net8.0\Dijkstra-console.AssemblyInfo.cs
+F:\MRA\Informatica\cl4\Dijkstra-Csharp\Dijkstra-console\Dijkstra-console\obj\Debug\net8.0\Dijkstra-console.csproj.CoreCompileInputs.cache
+F:\MRA\Informatica\cl4\Dijkstra-Csharp\Dijkstra-console\Dijkstra-console\obj\Debug\net8.0\Dijkstra-console.sourcelink.json
+F:\MRA\Informatica\cl4\Dijkstra-Csharp\Dijkstra-console\Dijkstra-console\bin\Debug\net8.0\Dijkstra-console.exe
+F:\MRA\Informatica\cl4\Dijkstra-Csharp\Dijkstra-console\Dijkstra-console\bin\Debug\net8.0\Dijkstra-console.deps.json
+F:\MRA\Informatica\cl4\Dijkstra-Csharp\Dijkstra-console\Dijkstra-console\bin\Debug\net8.0\Dijkstra-console.runtimeconfig.json
+F:\MRA\Informatica\cl4\Dijkstra-Csharp\Dijkstra-console\Dijkstra-console\bin\Debug\net8.0\Dijkstra-console.dll
+F:\MRA\Informatica\cl4\Dijkstra-Csharp\Dijkstra-console\Dijkstra-console\bin\Debug\net8.0\Dijkstra-console.pdb
+F:\MRA\Informatica\cl4\Dijkstra-Csharp\Dijkstra-console\Dijkstra-console\obj\Debug\net8.0\Dijkstra-console.dll
+F:\MRA\Informatica\cl4\Dijkstra-Csharp\Dijkstra-console\Dijkstra-console\obj\Debug\net8.0\refint\Dijkstra-console.dll
+F:\MRA\Informatica\cl4\Dijkstra-Csharp\Dijkstra-console\Dijkstra-console\obj\Debug\net8.0\Dijkstra-console.pdb
+F:\MRA\Informatica\cl4\Dijkstra-Csharp\Dijkstra-console\Dijkstra-console\obj\Debug\net8.0\Dijkstra-console.genruntimeconfig.cache
+F:\MRA\Informatica\cl4\Dijkstra-Csharp\Dijkstra-console\Dijkstra-console\obj\Debug\net8.0\ref\Dijkstra-console.dll
